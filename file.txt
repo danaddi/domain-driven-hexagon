@@ -1,3 +1,5 @@
-Изменение первое в branch2
-Изменение второе в branch2
-Изменение третье в branch2
+HEAD
+Изменение первое в branch1 и branch2
+Изменение второе в branch1 и branch2
+Изменение третье в branch1 и branch2
+branch1
